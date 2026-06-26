@@ -3,3 +3,8 @@ Date of Test: 2026-06-26 15:08:55
 Bubble Sort Time: 6.016183 seconds
 Quick Sort Time: 0.010389 seconds
 
+Computer Name: LAPTOP-73GDES1M
+Date of Test: 2026-06-26 15:26:53
+Bubble Sort Time: 5.127252 seconds
+Quick Sort Time: 0.012017 seconds
+
